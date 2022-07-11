@@ -53,9 +53,9 @@ Of all the biometric measurements, facial recognition is considered the most nat
 
 **Taking Attendance:**
 
-![Screenshot (2)](https://user-images.githubusercontent.com/105539158/170645940-987bdc7f-4de4-4e3f-9f1f-fe6f8541244c.png)
+
 
 
 **Showing Attendance Taken:**
 
-![Screenshot (3)](https://user-images.githubusercontent.com/105539158/170645946-8dc8cf7a-70af-4736-b7a4-b56f1443cb76.png)
+
