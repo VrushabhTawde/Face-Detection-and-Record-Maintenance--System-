@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>
+<img src='"C:\Users\Vrushabh T\Downloads\Screenshot 2022-07-12 183250.png"'>
 
 ### While taking Image
 ![Screenshot (103)]
