@@ -27,7 +27,7 @@
 <img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/23483dc22a354ad2a83fc67ddc85fe71ec50401b/Screenshot%202022-07-12%20183250.png'>
 
 ### While taking Image
-![Screenshot (103)]
+<img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/4d2dce68160467d44ae48bb796083205a1441b04/Screenshot%202022-07-12%20184227.png'>
 
 ## While taking Attendance
 ![Screenshot (91)]
