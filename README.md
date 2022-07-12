@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='"C:\Users\Vrushabh T\Downloads\Screenshot 2022-07-12 183250.png"'>
+<img src='"https://drive.google.com/file/d/1TQvQ33nh7IxsLtYfu2HM2ZjDlbbyAvlQ/view?usp=sharing"'>
 
 ### While taking Image
 ![Screenshot (103)]
