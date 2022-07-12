@@ -24,7 +24,7 @@
 ### Screenshots
 
 ### Simple UI
-<img src='"https://drive.google.com/file/d/1TQvQ33nh7IxsLtYfu2HM2ZjDlbbyAvlQ/view?usp=sharing"'>
+<img src=''>
 
 ### While taking Image
 ![Screenshot (103)]
