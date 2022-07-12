@@ -27,10 +27,11 @@
 <img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/23483dc22a354ad2a83fc67ddc85fe71ec50401b/Screenshot%202022-07-12%20183250.png'>
 
 ### While taking Image
-<img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/4d2dce68160467d44ae48bb796083205a1441b04/Screenshot%202022-07-12%20184227.png'>
+<img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/938b21e1bdac1652b67d078048548d3bdfec37d3/Screenshot%202022-07-12%20184307.png'>
 
 ## While taking Attendance
-![Screenshot (91)]
+<img src='https://github.com/VrushabhTawde/Face-Detection-and-Record-Maintenance--System-/blob/4d2dce68160467d44ae48bb796083205a1441b04/Screenshot%202022-07-12%20184227.png'>
+
 
 ## Attendance in tabular format 
 <img src=''>
